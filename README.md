@@ -16,7 +16,7 @@ Software development has allowed me to be creative and logical in the same space
 <code><img height="40" alt="Express" src="https://hackr.io/tutorials/learn-express-js/logo/logo-express-js?ver=1557508379"></code>
 <code><img height="40" alt="MongoDB" src="https://w1.pngwing.com/pngs/104/466/png-transparent-mongodb-logo-database-nosql-postgresql-mysql-green-text-line.png"></code>
 
-### Outside of the programming:
+### Outside of programming:
 I'm an avid competitor game tournaments across the country and Europe.
 I also enjoy running to keep fit when I can!
 
