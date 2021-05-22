@@ -4,7 +4,7 @@
 
 Software development has allowed me to be creative and logical in the same space and has quickly become one of my favourite things to take part in.
 
-**Looking to collaborate** on anything in the Javascript scope. Always keen on learning new technologies as well. 
+**Looking to collaborate** on anything in the Javascript scope. Always keen on learning new systems and languages as well. 
 
 
 **My favourite technologies:**   
