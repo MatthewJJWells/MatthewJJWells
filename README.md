@@ -7,7 +7,7 @@ Software development has allowed me to be creative and logical in the same space
 **Looking to collaborate** on anything in the Javascript scope. Always keen on learning new technologies as well. 
 
 
-**My favourite technologies: **   
+**My favourite technologies:**   
 
 <code><img height="40" alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img height="40" alt="React" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></code>
