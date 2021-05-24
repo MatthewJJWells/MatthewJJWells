@@ -1,6 +1,6 @@
 ## Hi, I'm Matt
 
-### I'm a Frontend Developer who's passionate about Javascript and all related technologies. ###
+### I'm a Full-Stack Developer who's passionate about Javascript and all related technologies. ###
 
 Software development has allowed me to be creative and logical in the same space and has quickly become one of my favourite things to take part in.
 
